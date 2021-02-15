@@ -9,3 +9,4 @@ for sentence in text:
     counter += 1
 print(result)
 
+

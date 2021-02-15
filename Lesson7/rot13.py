@@ -9,3 +9,4 @@ for character in user_input:
 
 print(result)
 
+
