@@ -5,6 +5,7 @@ def num_len(number):
         count += 1
     return count
 
+
 print(num_len(34567))
 
 
